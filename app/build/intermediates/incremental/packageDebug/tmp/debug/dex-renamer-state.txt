@@ -1,4 +1,4 @@
-#Mon Jun 06 13:14:32 CEST 2022
+#Sun Oct 02 18:35:12 CEST 2022
 base.2=C\:\\Users\\Lloko\\AndroidStudioProjects\\romaatuspies\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\2\\classes.dex
 path.2=2/classes.dex
 base.1=C\:\\Users\\Lloko\\AndroidStudioProjects\\romaatuspies\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex

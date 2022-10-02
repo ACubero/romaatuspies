@@ -5,15 +5,15 @@
     "kind": "Directory"
   },
   "applicationId": "eu.alexcuar.romaatuspies",
-  "variantName": "debug",
+  "variantName": "release",
   "elements": [
     {
       "type": "SINGLE",
       "filters": [],
       "attributes": [],
-      "versionCode": 1,
-      "versionName": "1.0",
-      "outputFile": "app-debug.apk"
+      "versionCode": 2,
+      "versionName": "2.0",
+      "outputFile": "app-release.apk"
     }
   ],
   "elementType": "File"

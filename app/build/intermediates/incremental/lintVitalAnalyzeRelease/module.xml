@@ -4,7 +4,7 @@
     name=":app"
     type="APP"
     maven="romaatuspies:app:"
-    gradle="7.2.1"
+    gradle="7.3.0"
     buildFolder="build"
     bootClassPath="C:\Users\Lloko\AppData\Local\Android\Sdk\platforms\android-32\android.jar;C:\Users\Lloko\AppData\Local\Android\Sdk\build-tools\30.0.3\core-lambda-stubs.jar"
     javaSourceLevel="1.8"
