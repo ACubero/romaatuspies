@@ -1,0 +1,90 @@
+[
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/layout_activity_splash.xml.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/xml_data_extraction_rules.xml.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/drawable-v24_romaatuspies.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/drawable-v24/romaatuspies.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/layout_activity_main.xml.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/layout/activity_main.xml"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/xml_backup_rules.xml.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/drawable_ic_launcher_background.xml.flat",
+        "source": "eu.alexcuar.romaatuspies.app-main-10:/drawable/ic_launcher_background.xml"
+    }
+]

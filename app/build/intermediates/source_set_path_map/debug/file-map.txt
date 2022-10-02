@@ -1,0 +1,12 @@
+eu.alexcuar.romaatuspies.app-support-compat-28.0.0-0 C:\Users\Lloko\.gradle\caches\transforms-3\00ae0264ea64350c0d34b5626db64f0b\transformed\support-compat-28.0.0\res
+eu.alexcuar.romaatuspies.app-coordinatorlayout-28.0.0-1 C:\Users\Lloko\.gradle\caches\transforms-3\0b9fc8d9f154c86a7fc179511600af22\transformed\coordinatorlayout-28.0.0\res
+eu.alexcuar.romaatuspies.app-constraint-layout-2.0.4-2 C:\Users\Lloko\.gradle\caches\transforms-3\873bc7c8a67ebe44879c1aac310b75f0\transformed\constraint-layout-2.0.4\res
+eu.alexcuar.romaatuspies.app-appcompat-v7-28.0.0-3 C:\Users\Lloko\.gradle\caches\transforms-3\f3fb8e121effd5569417956c58bf8b53\transformed\appcompat-v7-28.0.0\res
+eu.alexcuar.romaatuspies.app-pngs-4 C:\Users\Lloko\AndroidStudioProjects\romaatuspies\app\build\generated\res\pngs\debug
+eu.alexcuar.romaatuspies.app-resValues-5 C:\Users\Lloko\AndroidStudioProjects\romaatuspies\app\build\generated\res\resValues\debug
+eu.alexcuar.romaatuspies.app-rs-6 C:\Users\Lloko\AndroidStudioProjects\romaatuspies\app\build\generated\res\rs\debug
+eu.alexcuar.romaatuspies.app-packageDebugResources-7 C:\Users\Lloko\AndroidStudioProjects\romaatuspies\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+eu.alexcuar.romaatuspies.app-packageDebugResources-8 C:\Users\Lloko\AndroidStudioProjects\romaatuspies\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+eu.alexcuar.romaatuspies.app-merged_res-9 C:\Users\Lloko\AndroidStudioProjects\romaatuspies\app\build\intermediates\merged_res\debug
+eu.alexcuar.romaatuspies.app-debug-10 C:\Users\Lloko\AndroidStudioProjects\romaatuspies\app\src\debug\res
+eu.alexcuar.romaatuspies.app-main-11 C:\Users\Lloko\AndroidStudioProjects\romaatuspies\app\src\main\res
