@@ -12,10 +12,6 @@
         "source": "eu.alexcuar.romaatuspies.app-main-11:/mipmap-hdpi/ic_launcher_foreground.png"
     },
     {
-        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/layout_activity_splash.xml.flat",
-        "source": "eu.alexcuar.romaatuspies.app-main-11:/layout/activity_splash.xml"
-    },
-    {
         "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-mdpi_ic_launcher.png.flat",
         "source": "eu.alexcuar.romaatuspies.app-main-11:/mipmap-mdpi/ic_launcher.png"
     },
@@ -38,10 +34,6 @@
     {
         "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-xxhdpi_ic_launcher_round.png.flat",
         "source": "eu.alexcuar.romaatuspies.app-main-11:/mipmap-xxhdpi/ic_launcher_round.png"
-    },
-    {
-        "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/drawable-v24_romaatuspies.png.flat",
-        "source": "eu.alexcuar.romaatuspies.app-main-11:/drawable-v24/romaatuspies.png"
     },
     {
         "merged": "eu.alexcuar.romaatuspies.app-merged_res-9:/mipmap-hdpi_ic_launcher_round.png.flat",

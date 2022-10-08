@@ -1,4 +1,0 @@
-#Sun Oct 02 18:40:38 CEST 2022
-base.0=C\:\\Users\\Lloko\\AndroidStudioProjects\\romaatuspies\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
-renamed.0=classes.dex
-path.0=classes.dex

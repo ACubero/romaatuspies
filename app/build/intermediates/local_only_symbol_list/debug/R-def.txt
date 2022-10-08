@@ -10,14 +10,11 @@ color teal_700
 color white
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-drawable romaatuspies
 id container
-id imageView
 id progressBar
 id romaatuspies
 id textView
 layout activity_main
-layout activity_splash
 mipmap ic_launcher
 mipmap ic_launcher_foreground
 mipmap ic_launcher_round
